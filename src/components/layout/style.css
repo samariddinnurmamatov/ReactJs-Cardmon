@@ -1,0 +1,20 @@
+header{ 
+  display: flex; 
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px 3px;
+  border-bottom: 1px solid rgba(128, 128, 128, 0.214);
+  margin-bottom: 20px;
+}
+header .link{
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+header .link .nav{
+  text-decoration: none;
+  color: rgba(106, 105, 105, 0.932);
+}
+.active{
+  color: black !important;
+}
