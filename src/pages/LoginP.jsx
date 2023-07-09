@@ -14,7 +14,7 @@ const LoginP = () => {
     e.preventDefault();
     console.log(user);
 
-    if (user.username === "samariddin123" && user.password === "samariddin123") {
+    if (user.username === "macbook" && user.password === "samariddin") {
       // navigate("/products");
       navigate("/home");
     } else {
