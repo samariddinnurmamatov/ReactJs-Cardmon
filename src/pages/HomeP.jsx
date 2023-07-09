@@ -2,7 +2,7 @@ import React from 'react'
 
 const HomeP = () => {
   return (
-    <div>HomeP</div>
+    <div style={{textAlign: "center"}}>HomeP</div>
   )
 }
 
